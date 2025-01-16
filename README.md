@@ -4,10 +4,16 @@ This web application is developed in below technologies :
 Backend - Java , spring Boot, Apache KAfka, Zookeeper
 Frontend - Next JS Framework, React JS Library
 Testing Tools - Postman.
+
 Start Apache Kafka - 9092
+
 Start Zookeeper - 2181
+
 Front end (heat-engineer-task) ->npm run dev -> Application started on 3000
-Backend (backend-task) -> Run As Java Application HeatEngineerTask (backend-task -> src -> main-> java -> com->heat->engineer-> task-> HeatEngineerTask.java)) -> Application started on 8084
+
+Backend (backend-task) -> Run As Java Application
+HeatEngineerTask (backend-task -> src -> main-> java -> com->heat->engineer-> task-> HeatEngineerTask.java))
+-> Application started on 8084
 
 Below are the screenshots while running Eclipse, VSCode, Zookeeper, Kafka
 
