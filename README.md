@@ -17,10 +17,6 @@ Below are the screenshots while running Eclipse, VSCode, Zookeeper, Kafka
 
 <img width="1553" alt="kafka_zookeeper" src="https://github.com/user-attachments/assets/0d4533d1-90db-4ae2-a928-f693591f7d5a" />
 
-Below are the screenshots of testing APIs in Postman :
-
-<img width="1308" alt="postman1" src="https://github.com/user-attachments/assets/91b4efb3-a9c4-4830-b59b-e8fc85d713a5" />
-
 Below  are the front-end UI Images : 
 
 <img width="1300" alt="1" src="https://github.com/user-attachments/assets/feec90df-fbf3-4f5a-8763-e06f08729809" />
